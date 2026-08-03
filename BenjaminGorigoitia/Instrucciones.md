@@ -2,9 +2,9 @@
 ### Fundamentos de la Web · III° Medio
 *Git · GitHub · HTML · CSS — Landing Page*
 
-**Nombre:** _______________________________________________
+**Nombre:** benjamin gorigoitia _______________________________________________
 
-**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** _______________
+**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** 03/08/2026_______________
 
 ---
 
