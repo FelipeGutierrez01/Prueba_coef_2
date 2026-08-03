@@ -2,9 +2,9 @@
 ### Fundamentos de la Web · III° Medio
 *Git · GitHub · HTML · CSS — Landing Page*
 
-**Nombre:** _______________________________________________
+**Nombre:** __Victor_Uribe_Diaz____________________
 
-**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** _______________
+**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** ___03/08/2026___
 
 ---
 
