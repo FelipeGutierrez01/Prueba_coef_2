@@ -2,12 +2,12 @@
 Prueba de comandos, html, css y de instrucciones.
 
 1.- 
-2.-
-3.-
+2.-benjamin gorigoitia 
+3.- Rodrigo Rojas
 4.-ianMoreno
 5.-
 6.-
-7.-
+7.-TKS-Grey
 8.-
 9.-
 10.-
