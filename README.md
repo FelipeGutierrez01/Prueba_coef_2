@@ -8,7 +8,7 @@ Prueba de comandos, html, css y de instrucciones.
 5.-
 6.-
 7.-
-8.-Baltazar Gonzalez
+8.-
 9.-
 10.-
 11.-
@@ -20,7 +20,7 @@ Prueba de comandos, html, css y de instrucciones.
 17.-
 18.-
 19.-
-20.-
+20.-Baltazar Gonzalez
 21.-
 22.-
 23.-
