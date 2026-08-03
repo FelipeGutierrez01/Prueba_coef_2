@@ -2,9 +2,9 @@
 ### Fundamentos de la Web · III° Medio
 *Git · GitHub · HTML · CSS — Landing Page*
 
-**Nombre:** benjamin gorigoitia _______________________________________________
+**Nombre:** _______________________________________________
 
-**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** 03/08/2026_______________
+**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** _______________
 
 ---
 
@@ -21,7 +21,7 @@
 9. **Está prohibido usar IA. Se castigará con la nota mínima (2,0).**
 10. **Está prohibido compartir códigos.**
 11. Todos los códigos deben estar documentados (comentarios en tu HTML/CSS).
-
+12. No olvides ponerte en la lista del README de tu fork.
 
 ---
 

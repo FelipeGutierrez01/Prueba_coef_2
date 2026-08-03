@@ -7,7 +7,7 @@ Prueba de comandos, html, css y de instrucciones.
 4.-
 5.-
 6.-
-7.-
+7.-TKS-Grey
 8.-
 9.-
 10.-
