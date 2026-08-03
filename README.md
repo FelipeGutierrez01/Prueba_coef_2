@@ -16,7 +16,7 @@ Prueba de comandos, html, css y de instrucciones.
 13.-
 14.-
 15.-
-16.-
+16.- Sebastian Pereira | Usario git: QndresR
 17.-
 18.-
 19.-
