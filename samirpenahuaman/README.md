@@ -32,7 +32,7 @@ Prueba de comandos, html, css y de instrucciones.
 29.-
 30.-
 31.-
-32.-
+32.-samirpenahuaman
 33.-
 34.-
 35.-
