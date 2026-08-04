@@ -31,7 +31,7 @@ Prueba de comandos, html, css y de instrucciones.
 28.-
 29.-
 30.-
-31.-
+31.-Bastian Lopez
 32.-
 33.-
 34.-
