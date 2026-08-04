@@ -14,7 +14,7 @@ Prueba de comandos, html, css y de instrucciones.
 11.-
 12.-
 13.-
-14.- Camilo Mori | GitHub: Kamklo09
+14.- Camilo Mori | GitHub:Kamklo09
 15.-
 16.-
 17.-
