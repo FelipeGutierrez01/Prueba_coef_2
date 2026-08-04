@@ -20,7 +20,7 @@ Prueba de comandos, html, css y de instrucciones.
 17.-
 18.-
 19.- Evans Acuña
-20.-
+20.-Baltazar Gonzalez
 21.-
 22.- Nicolas Mesa
 23.-
