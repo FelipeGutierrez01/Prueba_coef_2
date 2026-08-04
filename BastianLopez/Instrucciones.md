@@ -2,9 +2,9 @@
 ### Fundamentos de la Web · III° Medio
 *Git · GitHub · HTML · CSS — Landing Page*
 
-**Nombre:** 
+**Nombre:** _______________________________________________
 
-**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:**
+**Curso:** 3° B TP &nbsp;&nbsp;&nbsp; **Fecha:** _______________
 
 ---
 
