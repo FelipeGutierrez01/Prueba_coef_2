@@ -19,7 +19,7 @@ Prueba de comandos, html, css y de instrucciones.
 16.- Sebastian Pereira | Usario git: QndresR
 17.-
 18.-
-19.-
+19.- Evans Acuña
 20.-
 21.-
 22.- Nicolas Mesa
@@ -30,7 +30,7 @@ Prueba de comandos, html, css y de instrucciones.
 27.-
 28.-
 29.-
-30.-
+30.- Gianlucas Miranda
 31.-
 32.-
 33.-
