@@ -24,7 +24,7 @@ Prueba de comandos, html, css y de instrucciones.
 21.-
 22.- Nicolas Mesa
 23.-
-24.-
+24.- Cristian Villobos
 25.-
 26.-
 27.-
