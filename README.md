@@ -22,7 +22,7 @@ Prueba de comandos, html, css y de instrucciones.
 19.-
 20.-
 21.-
-22.-
+22.- Nicolas Mesa
 23.-
 24.-
 25.-
