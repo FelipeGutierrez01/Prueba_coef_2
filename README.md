@@ -2,12 +2,12 @@
 Prueba de comandos, html, css y de instrucciones.
 
 1.- 
-2.-
-3.-
-4.-
-5.-
+2.-benjamin gorigoitia 
+3.- Rodrigo Rojas
+4.-ianMoreno
+5.- Noelia_Troncoso
 6.-
-7.-
+7.-TKS-Grey
 8.-
 9.-
 10.-
@@ -16,13 +16,13 @@ Prueba de comandos, html, css y de instrucciones.
 13.-
 14.-
 15.-
-16.-
+16.- Sebastian Pereira | Usario git: QndresR
 17.-
 18.-
-19.-
-20.-
+19.- Evans Acuña
+20.-Baltazar Gonzalez
 21.-
-22.-
+22.- Nicolas Mesa
 23.-
 24.-
 25.-
@@ -30,7 +30,7 @@ Prueba de comandos, html, css y de instrucciones.
 27.-
 28.-
 29.-
-30.-
+30.-Gianlucas Miranda
 31.-Bastian Lopez
 32.-
 33.-
