@@ -101,3 +101,15 @@ main {
 }
 
 
+/* FOOTER */
+
+footer {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    border-top: 2px solid #312849;
+    backdrop-filter: blur(10px);
+    width: 100%;
+    margin-top: 100px;
+}
