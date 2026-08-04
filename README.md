@@ -16,13 +16,13 @@ Prueba de comandos, html, css y de instrucciones.
 13.-
 14.-
 15.-
-16.-
+16.- Sebastian Pereira | Usario git: QndresR
 17.-
 18.-
 19.-
 20.-
 21.-
-22.-
+22.- Nicolas Mesa
 23.-
 24.-
 25.-
