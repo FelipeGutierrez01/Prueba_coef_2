@@ -30,8 +30,8 @@ Prueba de comandos, html, css y de instrucciones.
 27.-
 28.-
 29.-
-30.- Gianlucas Miranda
-31.-
+30.-Gianlucas Miranda
+31.-Bastian Lopez
 32.-
 33.-
 34.-
