@@ -26,7 +26,7 @@ Prueba de comandos, html, css y de instrucciones.
 23.-
 24.-
 25.-
-26.-
+26.-JoaquinSalamanca
 27.-
 28.-
 29.-
