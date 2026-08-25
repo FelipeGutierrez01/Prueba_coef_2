@@ -12,7 +12,7 @@ Prueba de comandos, html, css y de instrucciones.
 8.-
 9.-
 10.-
-11.-
+11.- Felipe Gutierrez
 12.-
 13.-
 14.- Camilo Mori | GitHub: Kamklo09
