@@ -9,17 +9,16 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* CABECERA */
 
-header {
-  height: 28px;
-  border-bottom: 1px solid #392b55;
-  display: flex;
-  justify-content: space-between;
-  padding: 0 6%;
-  font-size: 8px;
-  align-items: center;
+
+.Barranavegacion1{
+    display: flex;
+    gap: 20px;
+    border-bottom: 2px solid #352858;
+    color: #2cdb6f;
+    margin-top: 10px;
 }
+
 
 header b {
   color: #70e0d0;
@@ -31,7 +30,7 @@ nav a {
   margin-left: 18px;
 }
 
-/* FORMULARIO */
+
 
 main {
   width: 310px;
@@ -68,26 +67,8 @@ textarea {
   border-radius: 4px;
 }
 
-textarea {
-  height: 58px;
-  resize: none;
-}
 
-/* RADIOS */
 
-.radio {
-  display: flex;
-  gap: 15px;
-}
-
-.radio label {
-    color: #aaa;
-    margin-top: 8px;
-}
-
-.radio input {
-    width: auto;
-}
 
 
 
@@ -106,4 +87,14 @@ button {
     gap: 20px;
     border-bottom: 2px solid #352858;
     color: #2cdb6f;
+}
+
+a {
+    color: #2bdd6f;
+    gap: 20px;
+    position: relative;
+    left: 900px;
+
+    text-decoration: none;
+    
 }
