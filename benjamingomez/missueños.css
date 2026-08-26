@@ -58,11 +58,11 @@ p2 {
     color: #2cdb6f;
 }
 
-h4 {
-    color: #2cdb6f;
+a {
+    margin-top: 13px;
     gap: 20px;
     position: relative;
-    left: 1450px;
+    left: 1425px;
 }
  
 .Contenedor4{
@@ -70,3 +70,4 @@ h4 {
     text-align: center;
     margin-left: -19px;
 }
+

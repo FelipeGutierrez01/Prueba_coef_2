@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #151024;
+  color: #eee;
+  font-family: Arial, sans-serif;
+}
+
+/* CABECERA */
+
+header {
+  height: 28px;
+  border-bottom: 1px solid #392b55;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 6%;
+  font-size: 8px;
+  align-items: center;
+}
+
+header b {
+  color: #70e0d0;
+}
+
+nav a {
+  color: #aaa;
+  text-decoration: none;
+  margin-left: 18px;
+}
+
+/* FORMULARIO */
+
+main {
+  width: 310px;
+  margin: 40px auto;
+}
+
+.Contenedor2{
+    color: yellow;
+    margin-left: -200px;
+    text-align: center;
+    margin-top: 140px;
+}
+
+h1 {
+  font-size: 27px;
+  margin: 8px 0;
+}
+
+p {
+  color: #999;
+  font-size: 9px;
+  line-height: 1.6;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  background: #29203f;
+  border: 1px solid #3b2d58;
+  color: #ddd;
+  padding: 7px;
+  margin-top: 5px;
+  border-radius: 4px;
+}
+
+textarea {
+  height: 58px;
+  resize: none;
+}
+
+/* RADIOS */
+
+.radio {
+  display: flex;
+  gap: 15px;
+}
+
+.radio label {
+    color: #aaa;
+    margin-top: 8px;
+}
+
+.radio input {
+    width: auto;
+}
+
+
+
+button {
+    margin-top: 12px;
+    padding: 8px 16px;
+    background: #6ee0d0;
+    border: 0;
+    border-radius: 4px;
+    font-size: 8px;
+    cursor: pointer;
+}
+
+.Barranavegacion1{
+    display: flex;
+    gap: 20px;
+    border-bottom: 2px solid #352858;
+    color: #2cdb6f;
+}
