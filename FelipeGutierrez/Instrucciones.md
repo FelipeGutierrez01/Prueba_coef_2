@@ -2,9 +2,9 @@
 ### Fundamentos de la Web · III° Medio
 *Git · GitHub · HTML · CSS — Landing Page*
 
-**Nombre:** _______________________________________________
+**Nombre:Felipe Gutierrez** _______________________________________________
 
-**Curso:** 3° B TP  **Fecha:** _______________
+**Curso:** 3° B TP  **Fecha:** _31/08/2026______________
 
 ---
 
